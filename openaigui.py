@@ -5,12 +5,8 @@ from openai import OpenAI
 import os
 import sys
 import requests
-import urllib.request
-from PIL import Image
-from io import BytesIO
 from api_key import key
 from imgnsound import icon
-from text.prompt_framework import DAN_prompt
 
 # @https://beta.client.com/docs/engines/gpt-3
 
