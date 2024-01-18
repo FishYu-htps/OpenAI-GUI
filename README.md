@@ -15,7 +15,6 @@ The GUI will then open in a new window. You can select the desired OpenAI model 
 * logging==0.5.1.2
 * PySimpleGUI==4.60.4
 * openai==0.16.0
-* Pillow==9.2.0
 
 
 # License
