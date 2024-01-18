@@ -1,5 +1,5 @@
 # OpenAI-GUI
-
+```
 pip install -r requirements.txt
 ```
 # Usage
